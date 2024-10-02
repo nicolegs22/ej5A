@@ -1,0 +1,9 @@
+spring:
+  application.name=Fraud_Service
+server:
+  port: 8084
+
+
+  main:
+    banner-mode: "console"
+
